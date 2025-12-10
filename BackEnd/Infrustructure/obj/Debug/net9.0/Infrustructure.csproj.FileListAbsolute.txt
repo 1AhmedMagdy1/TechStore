@@ -1,0 +1,17 @@
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.csproj.AssemblyReference.cache
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.AssemblyInfoInputs.cache
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.AssemblyInfo.cs
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\bin\Debug\net9.0\Infrustructure.deps.json
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\bin\Debug\net9.0\Infrustructure.runtimeconfig.json
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\bin\Debug\net9.0\Infrustructure.dll
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\bin\Debug\net9.0\Infrustructure.pdb
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\bin\Debug\net9.0\Core.dll
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\bin\Debug\net9.0\Core.pdb
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustr.16C4BF02.Up2Date
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.dll
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\refint\Infrustructure.dll
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.pdb
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\Infrustructure.genruntimeconfig.cache
+C:\Users\Ahmed Magdy\source\repos\TechStore\Infrustructure\obj\Debug\net9.0\ref\Infrustructure.dll

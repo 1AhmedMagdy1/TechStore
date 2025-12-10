@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2419A5-F827-46D2-B43D-B63B9EADCC5B}|Infrustructure\\Infrustructure.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\infrustructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2419A5-F827-46D2-B43D-B63B9EADCC5B}|Infrustructure\\Infrustructure.csproj|solutionrelative:infrustructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{124E38FA-886C-4D2C-97E8-C86E3A6F8D58}|Api\\Api.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124E38FA-886C-4D2C-97E8-C86E3A6F8D58}|Api\\Api.csproj|solutionrelative:api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2419A5-F827-46D2-B43D-B63B9EADCC5B}|Infrustructure\\Infrustructure.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\infrustructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2419A5-F827-46D2-B43D-B63B9EADCC5B}|Infrustructure\\Infrustructure.csproj|solutionrelative:infrustructure\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\core\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|solutionrelative:core\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|solutionrelative:core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|solutionrelative:core\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\core\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|solutionrelative:core\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\core\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|c:\\users\\ahmed magdy\\source\\repos\\techstore\\core\\models\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576D87D5-20C8-42DF-9172-F9D64BA79201}|Core\\Core.csproj|solutionrelative:core\\models\\order\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Infrustructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrustructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Infrustructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Infrustructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:15:36.348Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1645327116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2102906816:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Infrustructure\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Infrustructure\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Infrustructure\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "Infrustructure\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:33:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOS\\CreateOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\CreateOrderDTO.cs",
+              "RelativeToolTip": "Core\\DTOS\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:41:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOS\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\CategoryDTO.cs",
+              "RelativeToolTip": "Core\\DTOS\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:41:39.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDTo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\OrderDTo.cs",
+              "RelativeDocumentMoniker": "Core\\DTOS\\OrderDTo.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\OrderDTo.cs",
+              "RelativeToolTip": "Core\\DTOS\\OrderDTo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:28:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\Models\\Order\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Order\\Order.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\Models\\Order\\Order.cs",
+              "RelativeToolTip": "Core\\Models\\Order\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:07:21.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:14:21.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:14:04.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOS\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed Magdy\\source\\repos\\TechStore\\Core\\DTOS\\OrderItemDTO.cs",
+              "RelativeToolTip": "Core\\DTOS\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T08:36:46.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
